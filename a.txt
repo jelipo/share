@@ -22,5 +22,3 @@ exe              1891314 1891306   0 /proc/self/exe init
 runc             1891324 1891260   0 /usr/bin/runc --root /run/containerd/runc/k8s.io --log /run/containerd/io.containerd.runtime.v2.task/k8s.io/122a273e47eec7cd7dff9e92e9d82ee22dca8890bbbe924a98626bee9076a5e2/log.json --log-format json --systemd-cgroup start 122a273e47eec7cd7dff9e92e9d82ee22dca8890bbbe924a98626bee9076a5e2
 sleep            1891317 1891260   0 /bin/sleep 100
 
-
-pstree -p
